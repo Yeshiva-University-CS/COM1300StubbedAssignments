@@ -25,3 +25,5 @@ hs_err_pid*
 
 # I DON'T WANT TO CHECK IN ANY POM FILE FOR THIS PROJECT
 pom.xml
+
+target
