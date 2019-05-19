@@ -18,6 +18,7 @@
     <module>HelloWorld</module>
     <module>LoopyEmployeePay</module>
     <module>OneEmployeePay</module>
+    <module>ShareSameBirthday</module>            
     <module>VerifyRandom</module>            
   </modules>
 </project>
