@@ -14,6 +14,7 @@
   <modules>
     <module>ConditionalEmployeePay</module>
     <module>DozensOfEggsVariables</module>
+    <module>ExceptionalEmployeePay</module>
     <module>GrossesAndDozensWithIO</module>
     <module>HelloWorld</module>
     <module>LoopyEmployeePay</module>
