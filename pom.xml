@@ -17,6 +17,7 @@
     <module>ExceptionalEmployeePay</module>
     <module>GrossesAndDozensWithIO</module>
     <module>HelloWorld</module>
+    <module>JUnit4Factorial</module>    
     <module>LoopyEmployeePay</module>
     <module>OneEmployeePay</module>
     <module>RefactoredShareSameBirthday</module>            
