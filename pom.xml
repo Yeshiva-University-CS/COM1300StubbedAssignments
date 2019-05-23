@@ -15,6 +15,7 @@
     <module>ConditionalEmployeePay</module>
     <module>DozensOfEggsVariables</module>
     <module>ExceptionalEmployeePay</module>
+    <module>FindingPrimes</module>
     <module>GrossesAndDozensWithIO</module>
     <module>HelloWorld</module>
     <module>JUnit4Factorial</module>    
