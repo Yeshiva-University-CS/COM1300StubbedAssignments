@@ -12,6 +12,7 @@
   <packaging>pom</packaging>
  
   <modules>
+    <module>BasicStatistics</module>
     <module>ConditionalEmployeePay</module>
     <module>DozensOfEggsVariables</module>
     <module>ExceptionalEmployeePay</module>
